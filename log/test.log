@@ -1,0 +1,2 @@
+15:38:39.694 INFO  org.ycframework.context.YcAnnotationConfigApplicationContext 38 <init> - com.yc.MyConfig类上有@YcComponentScan注解 他要扫描的路径:com.yc
+15:38:39.697 TRACE org.ycframework.context.YcAnnotationConfigApplicationContext 128 recursiveLoadBeanDefinition - 当前正在递归加载:/D:/%e6%ba%90%e8%be%b0%e4%b8%8a%e8%af%be/idea/test/gitTest01/selfspring/target/classes/com/yc
